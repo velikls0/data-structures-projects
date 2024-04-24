@@ -94,3 +94,18 @@ Step 6:                               [8,11,12,16,21,22]
 Answer b:
                    O(nlogn)
 ```
+
+# Binary Search Tree
+
+#### Q-1
+
+```
+                                   [7,5,1,8,3,6,0,9,4,2] 
+```
+
+#### Dizisinin Binary-Search-Tree aşamalarını yazınız. Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+```
+Answer:
+
+```
